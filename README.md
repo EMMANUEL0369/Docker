@@ -12,7 +12,9 @@ Antes de comenzar, asegúrate de tener Docker instalado en tu sistema. Si aún n
 Una vez que tengas Docker instalado, sigue los pasos a continuación para construir y ejecutar la imagen de Docker utilizando el Dockerfile proporcionado:
 
 - Paso 1: Descargar el Dockerfile y el contenido
-Descarga el Dockerfile en tu máquina. Asegúrate de que los demas archivos esten el mismo directorio.
+  - Descarga el Dockerfile en tu máquina.
+  - Descomprimir el archivo .zip.
+  - Asegúrate de que los demas archivos esten el mismo directorio.
 
 - Paso 2: Construir la imagen de Docker
 Abre una terminal en el directorio que contiene el Dockerfile. Para construir la imagen de Docker, utiliza el siguiente comando:
