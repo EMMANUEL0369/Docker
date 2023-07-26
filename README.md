@@ -1,5 +1,5 @@
 # Docker
-¡Bienvenido/a al repositorio de Docker que combina los servicios de SSH y Apache2! En este proyecto, hemos creado una solución versátil y potente para implementar contenedores Docker que te permitirán ejecutar tanto un servidor SSH como un servidor web Apache2 de manera rápida y sencilla.
+¡Bienvenido/a al repositorio de Docker que combina los servicios de SSH y Apache2! En este proyecto, se ha creado una solución versátil y potente para implementar contenedores Docker que te permitirán ejecutar tanto un servidor SSH como un servidor web Apache2 de manera rápida y sencilla.
 
 ## ¿Qué es Docker y por qué es importante Dockerfile?
 Docker es una plataforma de código abierto que permite desarrollar, enviar y ejecutar aplicaciones dentro de contenedores. Estos contenedores son entornos aislados que encapsulan todo lo necesario para que una aplicación se ejecute de manera eficiente y confiable en cualquier entorno. Docker ofrece una forma estandarizada y consistente de gestionar aplicaciones y sus dependencias, lo que facilita enormemente el despliegue y escalabilidad de servicios.
