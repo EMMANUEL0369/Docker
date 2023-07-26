@@ -14,6 +14,7 @@ Una vez que tengas Docker instalado, sigue los pasos a continuación para constr
 - Paso 1: Descargar el Dockerfile y el contenido
   - Descarga el Dockerfile en tu máquina.
   - Descomprimir el archivo .zip.
+  - Descargar la pagina HTML y el script para su correcto funcionamiento (Puede remplazar el contenido y el index por su proyecto)
   - Asegúrate de que los demas archivos esten el mismo directorio.
 
 - Paso 2: Construir la imagen de Docker
